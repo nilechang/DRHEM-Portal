@@ -10,5 +10,7 @@
  *
  *= require_self
  *= require 'masonry/transitions'
- *= require_tree .
+ *= require pages
+ *= require bootstrap_and_custommization
+ *= require posts
  */
